@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="128de878-f1ef-414b-a4a4-e8c2e09f05a4">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="105ae5f4-65fc-4ed3-be7a-40fae0a9088e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b606af01-de44-4589-93cb-4f8f40067197"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="64fe1c2c-c9a8-46bb-9cbc-e06de05b9090"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f6c8b4cb-bf39-4227-8a4f-c964a738e3e2"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="830e3348-b9c1-4aeb-8240-07aa5d83181e"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="622d10b8-bf39-49d4-ad75-7146c6a0c3a5"/>
+  <configurationExtensionCompatibilityMode>8.3.16</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.16</compatibilityMode>
+  <languages uuid="ed8d1242-6113-4777-9952-023180681d65">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
