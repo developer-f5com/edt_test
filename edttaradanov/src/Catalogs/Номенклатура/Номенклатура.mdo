@@ -61,16 +61,17 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="6a64d229-cc4d-4199-b938-190398cc1f34">
-    <name>Реквизит</name>
+    <name>ИНН</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит</value>
+      <value>ИНН</value>
     </synonym>
     <type>
-      <types>String</types>
-      <stringQualifiers>
-        <length>10</length>
-      </stringQualifiers>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>12</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
     </type>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
